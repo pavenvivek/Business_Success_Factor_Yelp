@@ -6,8 +6,8 @@ This is a simple tool built in Java for predicting the success of a given busine
 Packages used:
 --------------
 
-1] Stanford JavaNLP
-2] Weka
+1] Stanford JavaNLP  
+2] Weka  
 
 Dataset used:
 -------------
